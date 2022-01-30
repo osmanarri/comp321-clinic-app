@@ -1,0 +1,30 @@
+.container{
+  position: relative; 
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("home.png");
+  /* opacity: 0.75; */
+}
+
+
+.content{ 
+
+  font-size: x-large;
+  position: relative;
+  text-align: center; 
+  bottom: 100px;
+  
+  
+}
+.aptBtn{
+  background-color: rgb(100, 41, 168) ;
+}
+
+.aptBtn:hover{
+  background-color: rgb(68, 28, 114);
+}
+
+
