@@ -1,33 +1,40 @@
 {
     "clinics": [
         
-        {"id": "1", "clinic":"Allergy"},
-        {"id": "2", "clinic":"Cardiology"},
-        {"id": "3", "clinic":"Dermatology"},
-        {"id": "4", "clinic":"Family Doctor"},
-        {"id": "5", "clinic":"Pediatrician"}        
+        {"id": "1", "clinic":""},
+        {"id": "2", "clinic":"Allergy"},
+        {"id": "3", "clinic":"Allergy"},
+        {"id": "4", "clinic":"Cardiology"},
+        {"id": "5", "clinic":"Dermatology"},
+        {"id": "6", "clinic":"Family Doctor"},
+        {"id": "7", "clinic":"Pediatrician"}
+             
 
     ],
 
     "times": [
 
-        {"id": "1", "time":"8.30 am"},
-        {"id": "2", "time":"9:00 am"},
-        {"id": "3", "time":"9:30 am"},
-        {"id": "4", "time":"10:00 am"},
-        {"id": "5", "time":"11:00 am"} , 
-        {"id": "6", "time":"11:30 am"} , 
-        {"id": "7", "time":"12:00 am"} , 
-        {"id": "8", "time":"4:30 pm"} , 
-        {"id": "9", "time":"5:00 pm"} , 
-        {"id": "10", "time":"5:30 pm"} , 
-        {"id": "11", "time":"6:00 pm"}       
+        {"id": "1", "time":""},
+        {"id": "2", "time":"8:30 am"},
+        {"id": "3", "time":"9:00 am"},
+        {"id": "4", "time":"9:30 am"},
+        {"id": "5", "time":"10:00 am"} , 
+        {"id": "6", "time":"10:30 am"} , 
+        {"id": "7", "time":"11:00 am"} , 
+        {"id": "8", "time":"11:30 pm"} , 
+        {"id": "9", "time":"12:00 pm"} , 
+        {"id": "10", "time":"12:30 pm"} , 
+        {"id": "11", "time":"1:00 pm"},
+        {"id": "11", "time":"1:30 pm"}, 
+        {"id": "11", "time":"2:00 pm"}, 
+        {"id": "11", "time":"2:30 pm"}, 
+        {"id": "11", "time":"3:30 pm"}     
         
     ],
 
     "genders":[
-
-        {"id": "1", "gender":"Male"},
-        {"id": "2", "gender":"Female"}
+        {"id": "1", "gender":" "},
+        {"id": "2", "gender":"Male"},
+        {"id": "3", "gender":"Female"}
     ]
 }

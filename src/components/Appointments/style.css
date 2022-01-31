@@ -1,6 +1,6 @@
-body {
+/* body {
   overflow: hidden; 
-}
+} */
 
 input[type=text], select {
     width: 50%;
@@ -33,6 +33,7 @@ input[type=text], select {
     border-radius: 5px;
     /* background-color: #f2f2f2; */
     padding: 20px;
+    /* bottom:50px; */
   }
 
   button{
@@ -61,5 +62,24 @@ input[type=text], select {
     
     position: relative;
     left: 900px;
-    bottom:450px;
+    bottom:500px;
 }
+
+.success{
+  position: relative;
+  left: 500px;
+  padding: 20px;
+  background-color: #1a992b;
+  color: white;
+  width: 20%;
+  text-align: center;
+  font-size: medium;
+  border-radius: 5px;
+  box-shadow: 5px 10px 18px #888888;;
+}
+
+/* .warning{
+  padding: 20px;
+  background-color: #991a1a;
+  color: white;
+} */
