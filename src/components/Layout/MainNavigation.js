@@ -45,7 +45,12 @@ const MainNavigation = () => {
           )}
           {isLoggedIn && (
             <li>
-              <Link to='/appointments'>Appointments</Link>
+              <Link to='/appointments'>New Appointment</Link>
+            </li>
+          )}
+          {isLoggedIn && (
+            <li>
+              <Link to='/test'>Booked Appointment </Link>
             </li>
           )}
           {isLoggedIn && (
